@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-This is my first commit (change) on GitHub.
+This is my SECOND commit (change) on GitHub.
